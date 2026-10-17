@@ -1,0 +1,28 @@
+# Евгений — MVP, лендинги и боты с CRM для малого бизнеса | Портфолио
+Разработка цифровых продуктов, лендингов с калькуляторами и ИИ-ботов за 3–7 дней с гарантией качества и поддержкой.
+
+## Услуги и цены
+- Лендинг: от 9 000 ₽
+- Калькулятор: от 12 000 ₽
+- Бот с ИИ и CRM: от 25 000 ₽
+- Трекер или MVP: от 35 000 ₽
+
+## Живые домены (2)
+1. https://shtukaturka.neofreelance.ru — Лендинг штукатурки с калькулятором
+2. https://threshold.neofreelance.ru — Витрина магазина кроссовок THRESHOLD
+
+## Репозитории на GitHub (7)
+1. https://github.com/Evgenij800/landing-shtukaturka
+2. https://github.com/Evgenij800/threshold
+3. https://github.com/Evgenij800/project-tracker
+4. https://github.com/Evgenij800/excel-task-tracker
+5. https://github.com/Evgenij800/vitamin-tracker
+6. https://github.com/Evgenij800/autoprofi_vk_bot
+7. https://github.com/Evgenij800/estimate-calculator
+
+## Контакты
+- Telegram: https://t.me/ENM_Evgenij
+- Email: enm.vibecoder@gmail.com
+- GitHub: https://github.com/Evgenij800
+
+Открыт к заказам.
