@@ -6,6 +6,7 @@
 }
 
 :root {
+    color-scheme: light;
     --bg-color: #141414;
     --bg-card: #1c1c1c;
     --bg-card-hover: #242424;
